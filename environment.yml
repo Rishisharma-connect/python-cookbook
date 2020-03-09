@@ -1,4 +1,4 @@
-name: base
+name: python-cookbook
 channels:
   - https://repo.continuum.io/pkgs/free
   - defaults
